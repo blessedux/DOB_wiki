@@ -1,49 +1,44 @@
-# shadcn-docs-nuxt Minimal Starter
+# DOB Protocol Documentation Wiki
 
-Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
+## Overview
 
-## Setup
+DOB Protocol is building the financial backbone for Decentralized Physical Infrastructure Networks (DePIN) by enabling on-chain financing for autonomous machines. This documentation wiki serves as the comprehensive knowledge base for developers, investors, and users interested in the DOB ecosystem.
 
-Make sure to install the dependencies:
+## About DOB Protocol
 
-```bash
-# yarn
-yarn install
+DOB is a platform that enables the creation of trustless business models powered by Artificial Intelligence (AI), where participants in collaborative value creation receive direct ownership of digital assets and their generated benefits.
 
-# npm
-npm install
+The protocol tokenizes future revenues from DePIN devices—such as wireless networks, compute infrastructure, and energy nodes—allowing investors to own a share of their earnings. Through AI-driven agents, DOB automates validation, revenue distribution, and risk assessment, ensuring that tokenized revenues can be used as collateral for financing.
 
-# pnpm
-pnpm install
+## Key Components
 
-# bun
-bun install
-```
+- **AI Agents Framework**: Plugin for Virtuals.io game framework enabling RWA AI agents
+- **Hardware Implementation**: TEE-run AI agents that manage RWA and DePIN devices
+- **Revenue Distribution System**: Ensures fair distribution of yield and revenue
+- **Liquidity Management**: Stabilizes token flow through liquidity pools
+- **Undercollateralized Lending**: Enables secure business financing for DePIN infrastructure
 
-## Development Server
+## Market Opportunity
 
-Start the development server on http://localhost:3000
+The DePIN market is set to grow by 59% in just five years, surging from $2.2 trillion in 2023 to $3.5 trillion by 2028. Despite this exponential growth, financing mechanisms for DePIN remain nearly nonexistent. DOB Protocol is seizing this first-mover opportunity to build the financial rails for the next decade of machine-driven economies.
 
-```bash
-npm run dev
-```
+## Documentation Structure
 
-## Production
+This wiki provides technical documentation on all aspects of the DOB Protocol, including:
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=ZTL-UwU/shadcn-docs-nuxt-starter)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
+- Architecture Overview
+- API References
+- Implementation Guides
+- Smart Contract Documentation
+- AI Agent Specifications
+- Developer Resources
 
-Build the application for production:
+## Development
 
-```bash
-npm run build
-```
+### Setup
 
-Locally preview production build:
+## License
 
-```bash
-npm run preview
-```
+[License information will be added here]
 
-Checkout the [deployment documentation](https://shadcn-docs-nuxt.vercel.app/getting-started/deployment) for more information.
+## Contact
