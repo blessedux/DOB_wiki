@@ -39,6 +39,6 @@ This wiki provides technical documentation on all aspects of the DOB Protocol, i
 
 ## License
 
-[License information will be added here]
+Creative Commons (CC BY 4.0)
 
 ## Contact
